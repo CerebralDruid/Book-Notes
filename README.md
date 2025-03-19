@@ -1,6 +1,6 @@
 This book takes place in the universe of Entropic Jesus. 
 
-The story revolves around you and me, we are ourselves, and we have our respective views of the world, we have some differing views about the world, but we are both very pessimistic and have some resistance efforts that we mutually endeavor on.
+The story revolves around two friends who develop differing views about the world as they grow into their 30s. Both are very pessimistic and have some resistance efforts that they mutually endeavor on.
 
 Your character sees biblical prophecy as indicating that you were suppose to make a software infrastructure in the cloud which will host a new healthy, functional form of the internet that is free of surveillence and corporate manipulation and domination.
 
